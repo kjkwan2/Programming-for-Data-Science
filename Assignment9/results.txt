@@ -1,0 +1,7 @@
+Author: kk3175
+Date: 11/24/2015
+Class: DSGA 1007, Assignment 9
+
+The boxplots from 2007 through 2012 reveal no significant changes, which may be partially explained by the 2007 Great Recession. From 2007-2012, Europe is the region with the highest average GDP per capita, while Africa is the region with the lowest GDP per capita. From 2007-2012, Asia is the region with the largest range of GDP per capita. 
+
+The histograms show that in general, each region's countries have increasing GDP per capita. However, over the five year period of 2007-2012, these changes are not significant enough to be captured in the regional distributions of GDP per capita, as previously stated in the observation of the boxplots.
